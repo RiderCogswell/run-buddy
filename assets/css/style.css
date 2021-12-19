@@ -99,7 +99,7 @@ header a {
   /* style the sign up form */ 
 
   .hero-form h3 {
-      font-size: 30px;
+      font-size: 24px;
       margin: 0;
   }
 
@@ -114,6 +114,7 @@ header a {
       margin-bottom: 15px;
       padding: 7px 15px;
       color: #024e76;
+      width: 100%;
   }
 
   .hero-form label {
@@ -130,4 +131,3 @@ header a {
 
   /* end of hero styling */
 
-  
