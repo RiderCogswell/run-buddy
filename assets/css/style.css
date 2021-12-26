@@ -100,7 +100,6 @@ header a {
       border: solid 3px #024e76;
       width: 40%;
       margin: 3.5%;
-      
   }
 
   .hero-cta {
@@ -158,10 +157,11 @@ header a {
   .section-title {
       font-size: 55px;
       color: #024e76;
-      margin-bottom: 35px;
-      padding: 0 100px 20px 100px;
       border-bottom: 3px solid #fce138;
-      display: inline-block;
+      padding: 20px;
+      text-align: center;
+      margin: 0 auto 35px auto;
+      width: 50%;
   }
 
   .primary-border {
@@ -185,12 +185,12 @@ header a {
       width: 80%;
       font-size: 20px;
       margin: 0 auto;
+      text-align: center;
   }
 
   /* styling what-you-do */
 
   .steps {
-      text-align: center;
       background: #fce138;
   }
 
@@ -221,7 +221,6 @@ header a {
 /* style the trainers section */
 
 .trainers {
-    text-align: center;
 }
 
 .trainer {
@@ -270,7 +269,6 @@ header a {
 /* styling reach-out section */
 
 .contact {
-    text-align: center;
     background: #024e76;
 }
 
@@ -307,4 +305,10 @@ header a {
 
 .contact-info a {
     color: #fce138;
+}
+
+/* adding flexbox classes */
+
+.flex-row {
+    display: flex;
 }
