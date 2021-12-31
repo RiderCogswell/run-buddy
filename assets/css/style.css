@@ -87,6 +87,7 @@ header a {
       margin: 0;
   }
 
+
   footer div {
       line-height: 1.5;
       text-align: right;
@@ -416,6 +417,7 @@ header a {
 .contact-info iframe {
     height: 400px;
 }
+
 
 .contact-info div {
     color: white;
